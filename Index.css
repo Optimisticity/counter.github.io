@@ -1,0 +1,14 @@
+.parent{
+    height: max-content;
+    width: max-content;
+    margin: auto;
+    text-align: center;
+}
+button{
+    margin-left: 10px;
+}
+.buttons{
+    width: max-content;
+    height: max-content;
+    margin: auto;
+}
